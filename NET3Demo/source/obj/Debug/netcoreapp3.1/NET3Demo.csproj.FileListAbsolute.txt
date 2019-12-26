@@ -15,3 +15,4 @@ C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.As
 C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.RazorTargetAssemblyInfo.cache
 C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.dll
 C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.pdb
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.csprojAssemblyReference.cache
