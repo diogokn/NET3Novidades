@@ -1,0 +1,17 @@
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\NET3Demo.exe
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\NET3Demo.deps.json
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\NET3Demo.runtimeconfig.json
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\NET3Demo.runtimeconfig.dev.json
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\NET3Demo.dll
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\bin\Debug\netcoreapp3.1\NET3Demo.pdb
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\staticwebassets\NET3Demo.StaticWebAssets.Manifest.cache
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\staticwebassets\NET3Demo.StaticWebAssets.xml
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.AssemblyInfoInputs.cache
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.AssemblyInfo.cs
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.RazorTargetAssemblyInfo.cache
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.dll
+C:\DiogoKN\GIT\NET3Novidades\NET3Demo\source\obj\Debug\netcoreapp3.1\NET3Demo.pdb
